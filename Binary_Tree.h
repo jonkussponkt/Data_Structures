@@ -511,7 +511,7 @@ public:
             add(array[i]);
         }
         heap_sort();
-    }
+    } ////////
     int find_max(){
         int max = 0, i;
         for(i = 1; i < Tree.size(); i++){

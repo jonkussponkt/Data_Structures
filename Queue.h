@@ -69,3 +69,4 @@ public:
 };
 
 #endif //DATA_STRUCTURES_QUEUE_H
+

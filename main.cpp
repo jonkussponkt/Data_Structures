@@ -18,6 +18,7 @@ int main(int argc, char* argv[]) {
     if(from_file){
         file.open("file", std::ios::in);
     }
+    //
 //    do {
 //        std::cout << "\nWhat to do: \n1 - add\n2 - delete\n3 - show\n4 - min\n5 - max\n6 - find\n7 - is bst\n8 - parse\n9 - exit\n";
 //        std::cin >> choice;

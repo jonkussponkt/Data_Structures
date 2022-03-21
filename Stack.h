@@ -60,7 +60,7 @@ public:
         }
         std::cout << ID << ". " << ptr_to_last->info << std::endl;
     }
-    int get_size(){
+    int get_size(){ //
         return size;
     }
     T get_element(){
